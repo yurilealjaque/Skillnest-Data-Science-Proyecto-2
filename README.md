@@ -2,3 +2,10 @@
 
 ## Descripción
 Este proyecto tiene como objetivo realizar un análisis exploratorio de datos (EDA) sobre distintos conjuntos de datos para identificar sus características, calidad y posibles desafíos. A partir de este análisis, se selecciona un conjunto de datos y una problemática específica para desarrollar en etapas posteriores, justificando su relevancia y potencial de aplicación en técnicas de ciencia de datos y aprendizaje automático.
+
+| Dataset | Problema que resuelve | Tipo de problema | Valor para empresa/sociedad | Ventajas | Riesgos o debilidades |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Credit Risk** | Predecir si una persona puede caer en impago de un préstamo | Clasificación binaria | Alto valor empresarial para bancos, fintech o cooperativas | Variable objetivo clara: default; tamaño manejable; columnas financieras fáciles de explicar | Tiene licencia no comercial; tema sensible porque puede afectar decisiones de crédito |
+| **AI Impact Jobs 2030** | Analizar cómo la IA podría afectar empleos, industrias y habilidades hacia 2030 | Clasificación, regresión o EDA predictivo | Alto valor social y educativo | Tema actual, llamativo y con buena narrativa | Puede ser especulativo o sintético; difícil defender conclusiones como hechos reales |
+| **Tourism Recommendation** | Recomendar destinos turísticos según perfil, comportamiento y contexto del usuario | Sistemas de recomendación / clusterización | Alto valor empresarial para turismo, apps y agencias | Muy interesante y moderno; permite recomendación personalizada | Puede ser más complejo que lo necesario; requiere entender recomendadores, usuarios, interacciones y contexto |
+| **Hospital Readmission Risk** | Predecir pacientes con riesgo de reingreso hospitalario dentro de 30 días | Clasificación binaria | Muy alto valor social y sanitario | Propósito social muy fuerte; variable objetivo clara: readmitted; muchas variables clínicas útiles | Puede ser más delicado por ser salud; muchas columnas; puede requerir explicación ética y clínica cuidadosa |
